@@ -1,0 +1,14 @@
+2023-12-19 14:12:599 INFO  MyAccountPage :101 - myAccount:[[ChromeDriver: chrome on windows (fd5eaf73fe49408f7b8ee63246c21c92)] -> xpath: //span[contains(text(),'My Account')]]
+2023-12-19 14:12:63 INFO  MyAccountPage :106 - registerAccountProxy element for: DefaultElementLocator 'By.xpath: //h1[contains(text(),'Register Account')]'
+2023-12-19 14:12:751 INFO  MyAccountPage :101 - myAccount:[[ChromeDriver: chrome on windows (7a04a618b75b3d303cc0d8f1c68cfea5)] -> xpath: //span[contains(text(),'My Account')]]
+2023-12-19 14:12:593 INFO  MyAccountPage :106 - registerAccountProxy element for: DefaultElementLocator 'By.xpath: //h1[contains(text(),'Register Account')]'
+2023-12-19 14:12:767 INFO  MyAccountPage :101 - myAccount:[[ChromeDriver: chrome on windows (dd19dd411b7b8f12b6bddaa67bec8432)] -> xpath: //span[contains(text(),'My Account')]]
+2023-12-19 14:12:444 INFO  MyAccountPage :106 - registerAccountProxy element for: DefaultElementLocator 'By.xpath: //h1[contains(text(),'Register Account')]'
+2023-12-19 14:12:615 INFO  MyAccountPage :101 - myAccount:[[ChromeDriver: chrome on windows (28f528eecae5f39379aa8f128e289ea4)] -> xpath: //span[contains(text(),'My Account')]]
+2023-12-19 14:12:197 INFO  MyAccountPage :106 - registerAccountProxy element for: DefaultElementLocator 'By.xpath: //h1[contains(text(),'Register Account')]'
+2023-12-19 14:12:873 INFO  LaptopsAndNotebooksPage :128 - HoverOnDesktop[[ChromeDriver: chrome on windows (25b2b40e0935f570754692304e8df8e1)] -> link text: Laptops & Notebooks]
+2023-12-19 14:12:128 INFO  LaptopsAndNotebooksPage :134 - clickOnShowAllLaptopsAndNotebooks[[ChromeDriver: chrome on windows (25b2b40e0935f570754692304e8df8e1)] -> link text: Show AllLaptops & Notebooks]
+2023-12-19 14:12:121 INFO  MyAccountPage :101 - myAccount:[[ChromeDriver: chrome on windows (84075cdcb62cd4e66a4e18da6bd546f5)] -> xpath: //span[contains(text(),'My Account')]]
+2023-12-19 14:12:503 INFO  MyAccountPage :106 - registerAccountProxy element for: DefaultElementLocator 'By.xpath: //h1[contains(text(),'Register Account')]'
+2023-12-19 14:12:808 INFO  MyAccountPage :101 - myAccount:[[ChromeDriver: chrome on windows (3eb11a7fe561f383377a0fea53b88c4a)] -> xpath: //span[contains(text(),'My Account')]]
+2023-12-19 14:12:670 INFO  MyAccountPage :106 - registerAccountProxy element for: DefaultElementLocator 'By.xpath: //h1[contains(text(),'Register Account')]'
